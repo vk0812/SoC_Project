@@ -2,10 +2,10 @@
 
 The project involves implementation of ESRGAN using PyTorch to enhance low resolution images having a lot of loss in details to images having great spatial resolution. If time permits , we shall build a basic web app to deploy the project . It will be extremely fun to learn about GANs and you shall gain a lot of insight on deep learning in general. One can check out https://youtu.be/WCAF3PNEc_c . Our project shall be on the same lines. You may also go through the Andrew NG course on CNN https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF. The research paper that we will largely be following https://arxiv.org/abs/1809.00219 .
 
-## Prerequisites
+# Prerequisites
 Intermediate Python Skills and a lot of Enthusiasm to learn about Deep Learning and Neural Networks.
 
-## Timeline
+# Timeline
 
 | Week | Work    | 
 | :---   | :--- |
@@ -18,6 +18,10 @@ Intermediate Python Skills and a lot of Enthusiasm to learn about Deep Learning 
 | Week 7 | Finish Coding the same and debugging   |
 | Week 8 | Build a Basic Website to deploy the project   |
 
-## Resources
-### Week 1
-Coming Soon...
+# Resources
+## Week 1
+### Aim
+During Week 1, we will review Python programming and object-oriented programming concepts. This knowledge will prove valuable when developing models.
+### Important Links
+* [Python in One Video](https://www.youtube.com/watch?v=L5sZ6WgOnj0) <br/>
+* [OOP in Python](https://www.youtube.com/watch?v=qiSCMNBIP2g)
