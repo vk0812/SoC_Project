@@ -19,9 +19,9 @@ Intermediate Python Skills and a lot of Enthusiasm to learn about Deep Learning 
 | Week 8 | Build a Basic Website to deploy the project   |
 
 # Resources
-## Week 1
+## Week 0
 ### Aim
-During Week 1, we will review Python programming and object-oriented programming concepts. This knowledge will prove valuable when developing models.
+During Week 0, we will review Python programming and object-oriented programming concepts. This knowledge will prove valuable when developing models.
 ### Important Links
 * [Python in One Video](https://www.youtube.com/watch?v=L5sZ6WgOnj0) <br/>
 * [OOP in Python](https://www.youtube.com/watch?v=qiSCMNBIP2g)
