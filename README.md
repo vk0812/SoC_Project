@@ -25,3 +25,11 @@ During Week 0, we will review Python programming and object-oriented programming
 ### Important Links
 * [Python in One Video](https://www.youtube.com/watch?v=L5sZ6WgOnj0) <br/>
 * [OOP in Python](https://www.youtube.com/watch?v=qiSCMNBIP2g)
+
+## Week 1
+### Aim
+Get Acquainted with neural networks and the math behind it. You need not understand every nitty-griity of it , but this shall be your building blocks of deep learning to develop the intuition.
+### Important links
+* [Introduction to Deep FeedForward Neural Networks](https://towardsdatascience.com/an-introduction-to-deep-feedforward-neural-networks-1af281e306cd) 
+* [If you want video lectures](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU) Check out lectures 3 and 4.
+* [Building neural networks from scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b) Go through how neural networks were implemented long before libraries existed. Please code it side by side on your own too.
