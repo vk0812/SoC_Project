@@ -33,3 +33,14 @@ Get Acquainted with neural networks and the math behind it. You need not underst
 * [Introduction to Deep FeedForward Neural Networks](https://towardsdatascience.com/an-introduction-to-deep-feedforward-neural-networks-1af281e306cd) 
 * [If you want video lectures](https://youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU) Check out lectures 3 and 4.
 * [Building neural networks from scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b) Go through how neural networks were implemented long before libraries existed. Please code it side by side on your own too.
+
+
+## Week 2
+### Aim
+The aim of this week is to gain knowledge and understanding of Neural Networks and develop a basic understanding of Convolutional Neural Networks (CNNs).
+### Important Links
+* [PyTorch For Beginners](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) (Tutorials 1-14) <br/>
+* [Convolutional Neural Network(CNN) with Practical Implementation](https://medium.com/machine-learning-researcher/convlutional-neural-network-cnn-2fc4faa7bb63)
+### Assignment
+For this week's assignment, we would like you to implement a basic classification model utilizing Logistic Regression in PyTorch.
+* [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
