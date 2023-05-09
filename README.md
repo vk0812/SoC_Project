@@ -37,10 +37,11 @@ Get Acquainted with neural networks and the math behind it. You need not underst
 
 ## Week 2
 ### Aim
-The aim of this week is to gain knowledge and understanding of Neural Networks and develop a basic understanding of Convolutional Neural Networks (CNNs).
+The aim of this week is to get acquainted with PyTorch and develop an understanding of Convolutional Neural Networks (CNNs).
 ### Important Links
 * [PyTorch For Beginners](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) (Tutorials 1-14) <br/>
 * [Convolutional Neural Network(CNN) with Practical Implementation](https://medium.com/machine-learning-researcher/convlutional-neural-network-cnn-2fc4faa7bb63)
 ### Assignment
-For this week's assignment, we would like you to implement a basic classification model utilizing Logistic Regression in PyTorch.
-* [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
+For this week's assignment, we would like you to implement a basic classification model utilizing Logistic Regression on the iris dataset in PyTorch.
+* [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris) , you can refer [numpy implementation](https://medium.com/@kgpvijaybg/logistic-regression-on-iris-dataset-48b2ecdfb6d3) to get an idea.
+
