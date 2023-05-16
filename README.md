@@ -45,3 +45,11 @@ The aim of this week is to get acquainted with PyTorch and develop an understand
 For this week's assignment, we would like you to implement a basic classification model utilizing Logistic Regression on the iris dataset in PyTorch. Also , please code side by side on your notebooks parallely while going through the PyTorch tutorials.
 * [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris) , you can refer [numpy implementation](https://medium.com/@kgpvijaybg/logistic-regression-on-iris-dataset-48b2ecdfb6d3) to get an idea.
 
+## Week 3
+### Aim
+We will keep this week's learnings on the lighter side so that you can catch up. The aim is to get familiar with the nn.Module of PyTorch.
+### Important Links
+* [nn.Module Documentation](https://pytorch.org/docs/stable/nn.html)
+* [Implementation of a CNN based Image Classifier using PyTorch](https://www.geeksforgeeks.org/implementation-of-a-cnn-based-image-classifier-using-pytorch)
+### Assignment
+In this week's assignment , you will be applying a classification CNN using PyTorch to recognize digits on the MNIST dataset. One can refer to [CNN with MNIST](https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118) but should not copy from the same.
