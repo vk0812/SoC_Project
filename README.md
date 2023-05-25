@@ -53,3 +53,13 @@ We will keep this week's learnings on the lighter side so that you can catch up.
 * [Implementation of a CNN based Image Classifier using PyTorch](https://www.geeksforgeeks.org/implementation-of-a-cnn-based-image-classifier-using-pytorch)
 ### Assignment
 In this week's assignment , you will be applying a classification CNN using PyTorch to recognize digits on the MNIST dataset. One can refer to [CNN with MNIST](https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118) but should not copy from the same.
+
+## Week 4
+### Aim
+We won't give any coding assignments for this week , there's some reading material that we would like you to go through 
+### Important links
+* [Introduction to GANs](https://learnopencv.com/introduction-to-generative-adversarial-networks/)
+* [Implementing with PyTorch](https://www.run.ai/guides/deep-learning-for-computer-vision/pytorch-gan)
+### Assignment<img width="851" alt="Model" src="https://github.com/vk0812/SoC_Project/assets/92398600/27ddd284-dc93-47b4-86f3-4e7b32cb8dfa">
+
+We would like if you can take a look at the U-net model's architecture and check out my implemetation of the same so you are extremely comfortable with building complex models in PyTorch going forward. [link](https://github.com/Hitaansh04/DS303_Unet/blob/main/U_net.py)
