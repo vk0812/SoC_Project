@@ -60,6 +60,16 @@ We won't give any coding assignments for this week , there's some reading materi
 ### Important links
 * [Introduction to GANs](https://learnopencv.com/introduction-to-generative-adversarial-networks/)
 * [Implementing with PyTorch](https://www.run.ai/guides/deep-learning-for-computer-vision/pytorch-gan)
-### Assignment<img width="851" alt="Model" src="https://github.com/vk0812/SoC_Project/assets/92398600/27ddd284-dc93-47b4-86f3-4e7b32cb8dfa">
+### Assignment
+<img width="851" alt="Model" src="https://github.com/vk0812/SoC_Project/assets/92398600/27ddd284-dc93-47b4-86f3-4e7b32cb8dfa">
 
 We would like if you can take a look at the U-net model's architecture and check out my implemetation of the same so you are extremely comfortable with building complex models in PyTorch going forward. [link](https://github.com/Hitaansh04/DS303_Unet/blob/main/U_net.py)
+
+## Week 5
+### Aim
+This week's goal is to carefully read and understand the ESRGAN paper, learning about its methods and what it means for the field.
+### Important Links
+* [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks (Paper)](https://arxiv.org/abs/1809.00219)
+* [ESRGAN Paper Walkthrough (Video)](https://www.youtube.com/watch?v=qwYOlXRdADI)
+* [Google's Enhance AI - Super Resolution Is Here! (Video)](https://www.youtube.com/watch?v=WCAF3PNEc_c)
+
