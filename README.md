@@ -73,3 +73,10 @@ This week's goal is to carefully read and understand the ESRGAN paper, learning 
 * [ESRGAN Paper Walkthrough (Video)](https://www.youtube.com/watch?v=qwYOlXRdADI)
 * [Google's Enhance AI - Super Resolution Is Here! (Video)](https://www.youtube.com/watch?v=WCAF3PNEc_c)
 
+## Week 8 [Optional]
+### Aim
+The objective for this week is to create a simple website that can be used to deploy the project.
+### Important Links
+* [How to Easily Deploy Machine Learning Models Using Flask](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4)
+* [Deploy a machine learning model using flask](https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c)
+
